@@ -1,0 +1,19 @@
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Alfa+Slab+One&family=Open+Sans:wght@600&family=Oswald&display=swap');
+</style>
+
+h1{
+  font-size: 4em;
+  margin-bottom: 1em;
+font-family: 'Alfa Slab One', cursive ;
+}
+h2{
+  font-size: 2.75em;
+  margin-bottom: 0.5;
+  font-family: 'Oswald', sans-serif;
+}
+
+p {
+  margin-bottom: 0.5em;
+ font-family: 'Open Sans', sans-serif;
+}
