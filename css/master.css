@@ -1,9 +1,9 @@
 body{
-  background: rgb(50, 0, 105);
+  background: rgb(254, 10, 40);
 
 }
 header{
-  background: rgb(40, 0, 20);
+  background: rgb(50, 10, 110);
   display: flex;
   align-items: center;
 }
